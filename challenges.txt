@@ -1,0 +1,21 @@
+RULES
+=============================
+- Complete each challenge in under 15 minutes
+- Use both gui and command line(depending on what DE you install)
+- Be on fresh install of Linux
+- Download times don't count to 15 minute timeframe
+
+Here are the challenges you must complete(in any order you please). 
+
+1. pull this list from github
+2. cut/paste a file from one drive to another
+3. digitally sign a pdf
+4. export a chart from an excel file
+5. add a new font
+6. print a word doc
+7. compress and send all the files on this drive
+8. take a screen shot
+9. make a shortcut
+10. connect a network share
+12. setup discord to open on startup
+12. watch a video(if need be convert .mkv to playable media)
